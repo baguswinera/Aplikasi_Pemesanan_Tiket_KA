@@ -1,0 +1,27 @@
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\bin\Debug\Aplikasi_Pembelian_Tiket_KA.exe.config
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\bin\Debug\Aplikasi_Pembelian_Tiket_KA.exe
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\bin\Debug\Aplikasi_Pembelian_Tiket_KA.pdb
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.csprojResolveAssemblyReference.cache
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.Form1.resources
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.Properties.Resources.resources
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.csproj.GenerateResource.Cache
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.exe
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.pdb
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\bin\Debug\Aplikasi_Pembelian_Tiket_KA.exe.config
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.exe
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.pdb
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\bin\Debug\Aplikasi_Pembelian_Tiket_KA.exe
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\bin\Debug\Aplikasi_Pembelian_Tiket_KA.pdb
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.csprojResolveAssemblyReference.cache
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.Form1.resources
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.Properties.Resources.resources
+E:\Misc\BAGUS\UNDIP\SEMESTER 2\Praktikum DKP\TA\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.csproj.GenerateResource.Cache
+D:\Misc\Bagus\Praktikum DKP\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\bin\Debug\Aplikasi_Pembelian_Tiket_KA.exe.config
+D:\Misc\Bagus\Praktikum DKP\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\bin\Debug\Aplikasi_Pembelian_Tiket_KA.exe
+D:\Misc\Bagus\Praktikum DKP\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\bin\Debug\Aplikasi_Pembelian_Tiket_KA.pdb
+D:\Misc\Bagus\Praktikum DKP\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.csprojResolveAssemblyReference.cache
+D:\Misc\Bagus\Praktikum DKP\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.Form1.resources
+D:\Misc\Bagus\Praktikum DKP\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.Properties.Resources.resources
+D:\Misc\Bagus\Praktikum DKP\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.csproj.GenerateResource.Cache
+D:\Misc\Bagus\Praktikum DKP\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.exe
+D:\Misc\Bagus\Praktikum DKP\Tugas Akhir jadi\Aplikasi_Pembelian_Tiket_KA\Aplikasi_Pembelian_Tiket_KA\obj\Debug\Aplikasi_Pembelian_Tiket_KA.pdb
